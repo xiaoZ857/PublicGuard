@@ -15,11 +15,11 @@ In healthcare, legal systems, emergency response, and government services, hallu
 - **Audit Trail**: Maintains comprehensive logs for regulatory compliance
 
 ## 📁 Repository Structure
-publicguard/
-├── LLMAPI.py           # Unified interface for 20+ LLM providers
-├── PublicGuard.ipynb   # Main implementation with examples
-├── README.md           # This file
-└── config.json         # Configuration template (to be created)
+
+- **LLMAPI.py** - Unified interface for 20+ LLM providers
+- **PublicGuard.ipynb** - Main implementation with examples  
+- **README.md** - This file
+- **config.json** - Configuration template (to be created)
 
 Here's the complete markdown content from Quick Start onwards:
 
