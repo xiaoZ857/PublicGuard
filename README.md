@@ -20,6 +20,7 @@ publicguard/
 ├── PublicGuard.ipynb   # Main implementation with examples
 ├── README.md           # This file
 └── config.json         # Configuration template (to be created)
+
 Here's the complete markdown content from Quick Start onwards:
 
 ```markdown
